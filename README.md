@@ -4,7 +4,10 @@
 - 💞️ I’m looking forward to learning **Git**
 - 📫 **How to reach me?** 
   - You can just message me a message with the subject headline: [Hello from Github!](mailto:chuayi.q@gmail.com)
-  - Let me know if you use **R** or **Python** for data-related projects!
+    - Let me know if you use **R** or **Python** for data-related projects!
+  - Connect with me on [LinkedIn](https://www.linkedin.com/in/ychua)
+
+Thanks for reading!😊
 
 <!---
 sabrinaychua/sabrinaychua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
